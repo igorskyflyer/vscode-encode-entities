@@ -1,6 +1,6 @@
 ## 📒 Changelog
 
-### of [{{project}}](https://github.com/igorskyflyer/{{repo}})
+### of [{{project}} for Visual Studio Code](https://github.com/igorskyflyer/{{repo}})
 
 <br>
 
