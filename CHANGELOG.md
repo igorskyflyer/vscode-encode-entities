@@ -1,6 +1,6 @@
 ## 📒 Changelog
 
-### of [{{project}} for Visual Studio Code](https://github.com/igorskyflyer/{{repo}})
+### of [Encode Entities for Visual Studio Code](https://github.com/igorskyflyer/vscode-encode-entities)
 
 <br>
 
