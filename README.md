@@ -77,25 +77,33 @@ Licensed under the MIT license which is available here, [MIT license](https://gi
 
 ## 🧬 Related
 
-[]()
+[@igor.dvlpr/normalized-string](https://www.npmjs.com/package/@igor.dvlpr/normalized-string)
 
-> __
+> _💊 NormalizedString provides you with a String type with consistent line-endings, guaranteed. 📮_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/astro-escaped-component](https://www.npmjs.com/package/@igor.dvlpr/astro-escaped-component)
 
-[]()
+> _🏃🏻‍♂️‍➡️ An Astro component that holds only HTML-encoded content. 📜_
 
-> __
+<br>
 
-[]()
+[@igor.dvlpr/str-is-in](https://www.npmjs.com/package/@igor.dvlpr/str-is-in)
 
-> __
+> _🧵 Provides ways of checking whether a String is present in an Array of Strings using custom Comparators. 🔍_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/vscode-folderpicker](https://www.npmjs.com/package/@igor.dvlpr/vscode-folderpicker)
+
+> _✨ Provides a custom Folder Picker API + UI for Visual Studio Code. 🎨_
+
+<br>
+
+[@igor.dvlpr/magic-string](https://www.npmjs.com/package/@igor.dvlpr/magic-string)
+
+> _🧵 An expressive and chainable library for advanced string manipulations. Supports appending, prepending, trimming, quoting, and path formatting with customizable whitespace handling. Makes advanced String manipulations a piece of cake. 🦥_
 
 ---
 
