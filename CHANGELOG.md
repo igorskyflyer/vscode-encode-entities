@@ -9,6 +9,7 @@
 <p align="right"><em>11-Aug-2024</em></p>
 
 - **📜 docs**: fix LICENSE link in the README
+- **💻 dev**: compress extension icon
 
 <br>
 <br>
