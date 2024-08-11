@@ -44,6 +44,8 @@
 
 - [Features](#features)
 - [Usage](#usage)
+  - [Selection](#selection)
+  - [File](#file)
 - [Changelog](#changelog)
 - [License](#license)
 - [Related](#related)
@@ -53,7 +55,7 @@
 
 ## 🤖 Features
 
-- 🔣 fast and simple conversion of entities
+- 🔣 fast and simple encoding of entities
 - ✨ works for selection
 - 🛸 works for whole files
 
@@ -61,11 +63,19 @@
 
 ## 🕵🏼 Usage
 
-### Selection
+The extension exposes 2 commands, encoding of entities in the current selection and encoding of entities of the whole file.
+
+<br>
+
+### 🤿 Selection
+
+Open a file, make a single or multiple selection(s), then open the *Command Palette* and click on `"Encode entities in the selection"`.
 
 ---
 
-### File
+### 📃 File
+
+Open a file, then open the *Command Palette* and click on `"Encode entities in the current file"`.
 
 ---
 
