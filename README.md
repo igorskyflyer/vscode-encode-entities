@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  🔣 A Visual Studio Code extension that encodes entities in the current file or selected text. ✨
+  🔣 Encodes entities in the current file or selected text. ✨
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 ## 🤖 Features
 
 - 🔣 fast and simple encoding of entities
-- ✨ works for selection
+- ✨ works for selection(s)
 - 🛸 works for whole files
 
 <br>
@@ -87,7 +87,7 @@ Open a file, then open the *Command Palette* and click on `"Encode entities in t
 
 ## 🪪 License
 
-Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/vscode-encode-entities/blob/main/LICENSE).
+Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/vscode-encode-entities/blob/main/LICENSE.txt).
 
 ---
 
