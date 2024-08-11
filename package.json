@@ -8,7 +8,7 @@
         "vscode": "^1.92.0"
     },
     "categories": ["Other", "Formatters"],
-    "activationEvents": [],
+    "activationEvents": ["onStartupFinished"],
     "main": "dist/extension.js",
     "extensionKind": ["ui"],
     "capabilities": {
@@ -44,10 +44,28 @@
     "contributes": {
         "commands": [
             {
-                "command": "ext.sayHello",
-                "title": "Say Hello!"
+                "command": "extension.encodeInSelection",
+                "title": "Encode entities in the selection",
+                "category": "Encode Entities",
+                "icon": "$(replace)",
+                "enablement": "editorHasSelection || editorHasMultipleSelections"
+            },
+            {
+                "command": "extension.encodeFile",
+                "title": "Encode entities in the current file",
+                "category": "Encode Entities",
+                "icon": "$(replace)"
             }
-        ]
+        ],
+        "menus": {
+            "commandPalette": [
+                {
+                    "command": "extension.encodeFile",
+                    "group": "Encode Entities",
+                    "when": "editorIsOpen"
+                }
+            ]
+        }
     },
     "scripts": {
         "base": "esbuild src/extension.mts --bundle --outfile=dist/extension.js --format=cjs --platform=node --external:vscode --target=node20",
