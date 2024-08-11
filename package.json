@@ -10,13 +10,13 @@
     "categories": ["Other", "Formatters"],
     "activationEvents": ["onStartupFinished"],
     "main": "dist/extension.js",
-    "extensionKind": ["ui"],
+    "extensionKind": ["ui", "workspace"],
     "capabilities": {
         "virtualWorkspaces": {
-            "supported": false
+            "supported": true
         },
         "untrustedWorkspaces": {
-            "supported": false
+            "supported": true
         }
     },
     "icon": "assets/extension.png",
