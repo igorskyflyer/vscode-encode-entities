@@ -16,13 +16,13 @@
             "supported": true
         },
         "untrustedWorkspaces": {
-            "supported": true
+            "supported": "limited"
         }
     },
     "icon": "assets/extension.png",
     "galleryBanner": {
-        "color": "#EDEDED",
-        "theme": "light"
+        "color": "#171D29",
+        "theme": "dark"
     },
     "badges": [
         {
