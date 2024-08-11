@@ -53,13 +53,19 @@
 
 ## 🤖 Features
 
-- 
-- 
-- 
+- 🔣 fast and simple conversion of entities
+- ✨ works for selection
+- 🛸 works for whole files
 
 <br>
 
 ## 🕵🏼 Usage
+
+### Selection
+
+---
+
+### File
 
 ---
 
